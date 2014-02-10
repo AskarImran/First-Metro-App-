@@ -1,4 +1,4 @@
 First-Metro-App-
 ================
 
-Hello World :D...Am on my way to develop a windows metro application which will have a collection of riddles.
+Hello World :D...This application will be for windows metro,which will have a collection of riddles.
